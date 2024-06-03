@@ -1,5 +1,7 @@
 # Sonovate 
 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-03%20at%204.39.28%20PM.png?raw=true)
+
 ### Sonovate Whitepaper
 Compressed: https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%20Whitepaper.pdf
 
