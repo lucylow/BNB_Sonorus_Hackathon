@@ -1,11 +1,12 @@
 # Sonovate 
 
 ### Sonovate Whitepaper
-Compressed Whitepaper
-https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%20Whitepaper.pdf
-
-Full Version Whitepaper
 https://drive.google.com/file/d/1UmshzfIFafYRO0a7O3xxt8IyDl1Z0DDy/view?usp=drive_link
+
+
+### Sonovate Business Plan 
+https://docs.google.com/document/d/1fFzyHq9f_NYb6Cx1lIxoZmJRZAYzbAz4zxINQUqwjgc/edit?usp=sharing
+
 
 ---------------------------------------------------------------------
 
