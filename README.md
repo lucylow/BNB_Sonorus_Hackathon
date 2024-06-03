@@ -11,6 +11,8 @@ SOV token Transaction 2
 https://bscscan.com/tx/0xda89a1459a5a2c9098e4639ab6d70ff26e48c45ae04c0755aef418b73f65a3f5
 
 ### AI-GENERATED MOVIE 1: The Crypto Controversy with deepfake Donald Trump 
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/1.png?raw=true)
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x402d4725AC425D6d331A189B89ee1cCf4FaFEfee
 
