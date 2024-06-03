@@ -24,6 +24,7 @@ https://opensea.io/assets/bsc/0x00000000001594C61dD8a6804da9AB58eD2483ce/3663851
 
 
 ### AI-GENERATED MOVIE 2: The Crypto Commando with deepfake Arnold Schwarzenegger 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/2.png?raw=true)
 https://the-crypto-commando.nfts2.me/
 
 NFT on Binance Smart Chain 
@@ -34,6 +35,7 @@ https://opensea.io/assets/bsc/0x81BDE9EFb40fBC4D5d284BFB92A6A517363ddbf9
 
 
 ### AI-GENERATED MOVIE 3: The Last Block with Deepfake Morgan Freeman 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/3.png?raw=true)
 NFT on Binance Smart Chain 
 https://bscscan.com/tx/0xc0eb57396e3e01fbb9191588bd1dc0361770784f1b8046afe4b84e725d80ad40
 
@@ -46,6 +48,8 @@ NFT on Open Sea
 https://opensea.io/collection/the-last-block-1
 
 ### AI-Generated Binance Song of Lipdub Donald Trump
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/4a.png?raw=true)
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/4b.png?raw=true)
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x3dB071b68655706bC46a4D913a8e6fAf22656D5c
 
@@ -54,16 +58,23 @@ https://ai-generated-binance-song-of.nfts2.me/
 
 
 ### AI-Generated Deepfake Morgan Freeman
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/5.png?raw=true)
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x1021c787B63103b10D1BfBA9DC688049488F51c7
 
 https://deepfake-morgan-freeman.nfts2.me/
 
 ### AI-Generated Deepfake Arnold Schwarzenegger
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/6.png?raw=true)
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x36db3ED46e700916EfE797312B955e08BeCbB9C7
 
 https://deepfake-arnold-schwarzenegger.nfts2.me/
+
+
+### Build On BNB Chain Tweet
+
+![https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/7.png?raw=true]
 
 
 ### TWEET
