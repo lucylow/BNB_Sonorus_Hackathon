@@ -1,16 +1,20 @@
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-03%20at%204.39.28%20PM.png?raw=true)
 
-### Sonovate Whitepaper
+### Whitepaper
 Compressed: https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%20Whitepaper.pdf
 
 Full Version: https://drive.google.com/file/d/1UmshzfIFafYRO0a7O3xxt8IyDl1Z0DDy/view?usp=drive_link
 
 
-### Sonovate Business Plan 
+### Business Plan 
 Compressed: https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%20Business%20Plan.pdf
 
 Full Version: https://docs.google.com/document/d/1fFzyHq9f_NYb6Cx1lIxoZmJRZAYzbAz4zxINQUqwjgc/edit?usp=sharing
 
+
+### Demo Video
+
+www.youtube.com/ 
 
 ---------------------------------------------------------------------
 
