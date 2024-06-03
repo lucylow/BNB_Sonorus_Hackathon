@@ -53,9 +53,11 @@ https://ai-generated-binance-song-of.nfts2.me/
 ### AI-Generated Deepfake Morgan Freeman
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x1021c787B63103b10D1BfBA9DC688049488F51c7
+https://deepfake-morgan-freeman.nfts2.me/
 
 ### AI-Generated Deepfake Arnold Schwarzenegger
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x36db3ED46e700916EfE797312B955e08BeCbB9C7
+https://deepfake-arnold-schwarzenegger.nfts2.me/
 
 
