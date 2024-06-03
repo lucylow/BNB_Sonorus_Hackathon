@@ -6,6 +6,7 @@ https://bscscan.com/address/0x25a4B50Ef20fC899fBfa5c57d11386e01111607d
 
 SOV token Transaction 1 
 https://bscscan.com/tx/0x566cd9354162bf30b9515e5b2c78f7bca4030d2d1b05fcb77ac386af022b216c
+
 SOV token Transaction 2
 https://bscscan.com/tx/0xda89a1459a5a2c9098e4639ab6d70ff26e48c45ae04c0755aef418b73f65a3f5
 
@@ -53,11 +54,13 @@ https://ai-generated-binance-song-of.nfts2.me/
 ### AI-Generated Deepfake Morgan Freeman
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x1021c787B63103b10D1BfBA9DC688049488F51c7
+
 https://deepfake-morgan-freeman.nfts2.me/
 
 ### AI-Generated Deepfake Arnold Schwarzenegger
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x36db3ED46e700916EfE797312B955e08BeCbB9C7
+
 https://deepfake-arnold-schwarzenegger.nfts2.me/
 
 
