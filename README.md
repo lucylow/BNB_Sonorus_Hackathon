@@ -2,6 +2,7 @@
 
 ### Sonovate Whitepaper
 Compressed: https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%20Whitepaper.pdf
+
 Full version: https://drive.google.com/file/d/1UmshzfIFafYRO0a7O3xxt8IyDl1Z0DDy/view?usp=drive_link
 
 
