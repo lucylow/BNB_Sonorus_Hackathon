@@ -64,3 +64,6 @@ https://bscscan.com/address/0x36db3ED46e700916EfE797312B955e08BeCbB9C7
 https://deepfake-arnold-schwarzenegger.nfts2.me/
 
 
+### TWEET
+https://x.com/LowLucy/status/1797375740654063775
+
