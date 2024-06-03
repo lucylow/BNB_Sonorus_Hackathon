@@ -6,6 +6,9 @@ https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/whitepaper/Sonovate%2
 Full Version Whitepaper
 https://drive.google.com/file/d/1UmshzfIFafYRO0a7O3xxt8IyDl1Z0DDy/view?usp=drive_link
 
+---------------------------------------------------------------------
+
+
 ### SOV TOKEN TRANSACTIONS
 SOV token (10 billion) Creation Contract 
 https://bscscan.com/address/0x25a4B50Ef20fC899fBfa5c57d11386e01111607d
