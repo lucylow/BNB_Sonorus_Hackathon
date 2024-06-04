@@ -97,6 +97,8 @@ https://opensea.io/assets/bsc/0x00000000001594C61dD8a6804da9AB58eD2483ce/3663851
 ---------------------------------------------------------------------
 
 ### AI-GENERATED MOVIE 2: The Crypto Commando with deepfake Arnold Schwarzenegger 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/THISONE%202.png?raw=true)
+
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/2.png?raw=true)
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.12.48%20PM.png?raw=true)
@@ -112,6 +114,8 @@ https://opensea.io/assets/bsc/0x81BDE9EFb40fBC4D5d284BFB92A6A517363ddbf9
 ---------------------------------------------------------------------
 
 ### AI-GENERATED MOVIE 3: The Last Block with Deepfake Morgan Freeman 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/THIS%20ONE%203.png?raw=true)
+
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/3.png?raw=true)
 
 NFT on Binance Smart Chain 
