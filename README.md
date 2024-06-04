@@ -110,6 +110,7 @@ https://ai-generated-binance-song-of.nfts2.me/
 ---------------------------------------------------------------------
 
 ### AI-Generated Deepfake Morgan Freeman
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.15.01%20PM.png?raw=true)
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/5.png?raw=true)
 
 NFT on Binance Smart Chain 
