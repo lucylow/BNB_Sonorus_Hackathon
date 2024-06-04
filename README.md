@@ -69,6 +69,8 @@ https://opensea.io/assets/bsc/0x00000000001594C61dD8a6804da9AB58eD2483ce/3663851
 ### AI-GENERATED MOVIE 2: The Crypto Commando with deepfake Arnold Schwarzenegger 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/2.png?raw=true)
 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.12.48%20PM.png?raw=true)
+
 https://the-crypto-commando.nfts2.me/
 
 NFT on Binance Smart Chain 
