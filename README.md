@@ -64,23 +64,29 @@ A proposal for a Donald Trump movie is submitted to the DAO platform.
 Fans and community members stake tokens to support the project and vote on its approval.
 
 Scriptwriting and Development:
-Approved project funds are allocated to scriptwriters who develop the screenplay.
-Regular updates and drafts are shared with the community for feedback.
+-Approved project funds are allocated to scriptwriters who develop the screenplay.
+- Regular updates and drafts are shared with the community for feedback.
+
 Casting and Pre-Production:
-Directors and producers are selected based on community votes and their portfolios.
-Casting calls are held, and actors are chosen for various roles, including Donald Trump.
+- Directors and producers are selected based on community votes and their portfolios.
+- Casting calls are held, and actors are chosen for various roles, including Donald Trump.
+
 Production:
-The movie is filmed, with progress milestones set by smart contracts to release funds incrementally.
-Visual effects artists and sound engineers work on post-production.
+- The movie is filmed, with progress milestones set by smart contracts to release funds incrementally.
+- Visual effects artists and sound engineers work on post-production.
+
 Marketing and Promotion:
-The marketing team develops strategies to promote the movie, engaging with the community through social media and events.
-Teasers, trailers, and behind-the-scenes content are released to build anticipation.
+- The marketing team develops strategies to promote the movie, engaging with the community through social media and events.
+- Teasers, trailers, and behind-the-scenes content are released to build anticipation.
+
 Distribution:
-The completed movie is distributed through various streaming platforms and digital marketplaces.
-Fans who staked tokens can receive early access or exclusive content.
+- The completed movie is distributed through various streaming platforms and digital marketplaces.
+- Fans who staked tokens can receive early access or exclusive content.
+
 Revenue Sharing:
-Revenue generated from the movie’s sales and streaming is distributed to all stakeholders through smart contracts.
-Each stakeholder’s share is automatically transferred to their DAO Token Wallet ID.
+- Revenue generated from the movie’s sales and streaming is distributed to all stakeholders through smart contracts.
+- Each stakeholder’s share is automatically transferred to their DAO Token Wallet ID.
+
 By utilizing blockchain technology and a DAO structure, Sonovate ensures a transparent, fair, and collaborative approach to movie production. This model democratizes the process, giving more power to independent creators and engaging the community in meaningful ways.
 
 
@@ -97,9 +103,10 @@ https://opensea.io/assets/bsc/0x00000000001594C61dD8a6804da9AB58eD2483ce/3663851
 ---------------------------------------------------------------------
 
 ### AI-GENERATED MOVIE 2: The Crypto Commando with deepfake Arnold Schwarzenegger 
-![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/THISONE%202.png?raw=true)
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/2.png?raw=true)
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/hero%20journey%202.png?raw=true)
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.12.48%20PM.png?raw=true)
 
@@ -114,9 +121,10 @@ https://opensea.io/assets/bsc/0x81BDE9EFb40fBC4D5d284BFB92A6A517363ddbf9
 ---------------------------------------------------------------------
 
 ### AI-GENERATED MOVIE 3: The Last Block with Deepfake Morgan Freeman 
-![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/THIS%20ONE%203.png?raw=true)
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/3.png?raw=true)
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/hero%20journey%203.png?raw=true)
 
 NFT on Binance Smart Chain 
 https://bscscan.com/tx/0xc0eb57396e3e01fbb9191588bd1dc0361770784f1b8046afe4b84e725d80ad40
