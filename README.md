@@ -55,6 +55,36 @@ https://bscscan.com/tx/0xda89a1459a5a2c9098e4639ab6d70ff26e48c45ae04c0755aef418b
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.01.13%20PM.png?raw=true)
 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/Screen%20Shot%202024-06-04%20at%203.11.31%20PM.png?raw=true)
+
+
+Example Workflow Proposal and Staking:
+
+A proposal for a Donald Trump movie is submitted to the DAO platform.
+Fans and community members stake tokens to support the project and vote on its approval.
+
+Scriptwriting and Development:
+Approved project funds are allocated to scriptwriters who develop the screenplay.
+Regular updates and drafts are shared with the community for feedback.
+Casting and Pre-Production:
+Directors and producers are selected based on community votes and their portfolios.
+Casting calls are held, and actors are chosen for various roles, including Donald Trump.
+Production:
+The movie is filmed, with progress milestones set by smart contracts to release funds incrementally.
+Visual effects artists and sound engineers work on post-production.
+Marketing and Promotion:
+The marketing team develops strategies to promote the movie, engaging with the community through social media and events.
+Teasers, trailers, and behind-the-scenes content are released to build anticipation.
+Distribution:
+The completed movie is distributed through various streaming platforms and digital marketplaces.
+Fans who staked tokens can receive early access or exclusive content.
+Revenue Sharing:
+Revenue generated from the movie’s sales and streaming is distributed to all stakeholders through smart contracts.
+Each stakeholder’s share is automatically transferred to their DAO Token Wallet ID.
+By utilizing blockchain technology and a DAO structure, Sonovate ensures a transparent, fair, and collaborative approach to movie production. This model democratizes the process, giving more power to independent creators and engaging the community in meaningful ways.
+
+
+
 NFT on Binance Smart Chain 
 https://bscscan.com/address/0x402d4725AC425D6d331A189B89ee1cCf4FaFEfee
 
