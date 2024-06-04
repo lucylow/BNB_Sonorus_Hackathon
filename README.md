@@ -16,7 +16,7 @@ Full Version: https://docs.google.com/document/d/1fFzyHq9f_NYb6Cx1lIxoZmJRZAYzbA
 
 ### Demo Video
 
-https://www.youtube.com/watch?v=k7zfpeb96po&ab_channel=RockPrincess
+https://youtu.be/rzm3ej_KUjM
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.00.11%20PM.png?raw=true)
 
