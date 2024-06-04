@@ -24,6 +24,13 @@ https://www.youtube.com/watch?v=k7zfpeb96po&ab_channel=RockPrincess
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.00.35%20PM.png?raw=true)
 
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.01.55%20PM.png?raw=true)
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.04.48%20PM.png?raw=true)
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.03.51%20PM.png?raw=true)
+
+![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/Screen%20Shot%202024-06-04%20at%202.02.13%20PM.png?raw=true)
 
 
 ---------------------------------------------------------------------
