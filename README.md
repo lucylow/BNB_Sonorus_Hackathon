@@ -16,7 +16,7 @@ Full Version: https://docs.google.com/document/d/1fFzyHq9f_NYb6Cx1lIxoZmJRZAYzbA
 
 ### Demo Video
 
-[www.youtube.com/ ](https://youtu.be/k7zfpeb96po)
+https://www.youtube.com/watch?v=k7zfpeb96po&ab_channel=RockPrincess
 
 ---------------------------------------------------------------------
 
