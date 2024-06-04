@@ -58,13 +58,10 @@ https://bscscan.com/tx/0xda89a1459a5a2c9098e4639ab6d70ff26e48c45ae04c0755aef418b
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/Screen%20Shot%202024-06-04%20at%203.11.31%20PM.png?raw=true)
 
 
-Example Workflow Proposal and Staking:
-
-A proposal for a Donald Trump movie is submitted to the DAO platform.
-Fans and community members stake tokens to support the project and vote on its approval.
+Example Workflow Proposal and Staking: A proposal for a Donald Trump movie is submitted to the DAO platform where fans and community members stake tokens to support the project and vote on its approval.
 
 Scriptwriting and Development:
--Approved project funds are allocated to scriptwriters who develop the screenplay.
+- Approved project funds are allocated to scriptwriters who develop the screenplay.
 - Regular updates and drafts are shared with the community for feedback.
 
 Casting and Pre-Production:
