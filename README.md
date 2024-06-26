@@ -173,6 +173,11 @@ https://deepfake-arnold-schwarzenegger.nfts2.me/
 
 ![](https://github.com/lucylow/BNB_Sonorus_Hackathon/blob/main/images/7.png?raw=true)
 
+https://x.com/LowLucy/status/1797375740654063775
+
+
+---------------------------------------------------------------------
+
 
 
 ### Next Steps for Sonovate: Technical Roadmap 
@@ -258,5 +263,4 @@ https://deepfake-arnold-schwarzenegger.nfts2.me/
    - Monitor platform performance and user feedback.
    - Implement regular updates, new features, and improvements to keep the platform competitive and user-friendly.
 
-https://x.com/LowLucy/status/1797375740654063775
 
